@@ -55,6 +55,7 @@
   },
   "globals": {
     "test": true,
+    "it": true,
     "expect": true,
     "document": true,
     "window": true

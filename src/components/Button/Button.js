@@ -1,6 +1,9 @@
 /* @flow */
 import React from 'react'
 import Theme from 'js-theme'
+import {
+  Colors,
+} from '../../Patterns'
 
 type PropsT = {
   children: React.Children,
@@ -26,7 +29,7 @@ const defaultTheme = {
     boxSizing: 'border-box',
     cursor: 'pointer',
     border: 0,
-    backgroundColor: '#efefef',
+    backgroundColor: Colors.grey900,
   },
 }
 

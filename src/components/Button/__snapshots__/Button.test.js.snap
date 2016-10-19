@@ -1,5 +1,11 @@
-exports[`test Renders without props 1`] = `
-<button>
+exports[`test Regular 1`] = `
+<button
+  className="button_12rilbe" />
+`;
+
+exports[`test With children 1`] = `
+<button
+  className="button_12rilbe">
   Button
 </button>
 `;

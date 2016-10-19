@@ -1,0 +1,5 @@
+exports[`test Renders without props 1`] = `
+<button>
+  Button
+</button>
+`;
